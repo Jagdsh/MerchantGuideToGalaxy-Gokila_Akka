@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantGuideToGalaxy", "MerchantGuideToGalaxy\MerchantGuideToGalaxy.csproj", "{9292A3CA-E8ED-4F66-8DB5-414B1CFBA8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantGuideTestConsole", "MerchantGuideTestConsole\MerchantGuideTestConsole.csproj", "{C6C1B55D-D598-44EC-ADDC-21218577ACC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MerchantGuideUnitTest", "MerchantGuideUnitTest\MerchantGuideUnitTest.csproj", "{38C12C25-F240-4E10-8B22-E32826F22F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9292A3CA-E8ED-4F66-8DB5-414B1CFBA8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9292A3CA-E8ED-4F66-8DB5-414B1CFBA8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9292A3CA-E8ED-4F66-8DB5-414B1CFBA8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9292A3CA-E8ED-4F66-8DB5-414B1CFBA8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C1B55D-D598-44EC-ADDC-21218577ACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C1B55D-D598-44EC-ADDC-21218577ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C1B55D-D598-44EC-ADDC-21218577ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C1B55D-D598-44EC-ADDC-21218577ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C12C25-F240-4E10-8B22-E32826F22F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C12C25-F240-4E10-8B22-E32826F22F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C12C25-F240-4E10-8B22-E32826F22F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C12C25-F240-4E10-8B22-E32826F22F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
